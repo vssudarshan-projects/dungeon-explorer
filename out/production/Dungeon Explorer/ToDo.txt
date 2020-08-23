@@ -1,0 +1,22 @@
+3.Saving and loading assets.(file system)
+
+4.GUI
+
+5.zoneObjects are tied to coordinates. (find using circle formula)
+
+6.Dynamic generation of dungeon map.
+
+7.Revive timer using multithreading
+
+8.Map and monster creator/editor.
+
+9.Scrolls in combat system:
+     c.Damage over time
+
+10. monster drops
+
+2.Levelling system.
+
+11. Class Scope
+
+
